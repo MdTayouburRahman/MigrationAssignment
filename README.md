@@ -96,5 +96,5 @@ After creating the migration file for the "orders" table, run the migration to c
 
 
 ## Copyright
-[© 2023 Your Name. All rights reserved.](https://www.facebook.com/MdTayoburRahmanKibrea/)
+[© 2023 MD TAYOBUR RAHMAN. All rights reserved.](https://www.facebook.com/MdTayoburRahmanKibrea/)
 
