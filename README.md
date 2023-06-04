@@ -2,6 +2,9 @@
 
 # Welcome to Migration Assignment
 
+### *name* - MD TAYOUBR RAHMAN
+### *contact* - 01717932348
+
 </center>
 
 ## Task 1
@@ -90,3 +93,8 @@ After creating the migration file for the "orders" table, run the migration to c
 # Thank you
 
 </center>
+
+
+## Copyright
+[© 2023 Your Name. All rights reserved.](https://www.facebook.com/MdTayoburRahmanKibrea/)
+
